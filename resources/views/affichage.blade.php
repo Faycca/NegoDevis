@@ -8,11 +8,8 @@
         <title>NegoDevis Simulation</title>
         <link href="https://fonts.googleapis.com/css?family=Racing+Sans+One&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{asset('css/app.css')}}">
-
-
-
-        </head>
-     <body>
+</head>
+    <body>
 
          <div id="negodevis" class="container col-lg">
                     <a id="title_nego" href="/" class="text-decoration-none display-3 text-primary">Nego<span id="title_devis" class="display-2 text-warning">Devis</span></a>
